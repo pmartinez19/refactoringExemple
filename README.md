@@ -1,0 +1,2 @@
+# refactoringExemple
+Exercici clase
