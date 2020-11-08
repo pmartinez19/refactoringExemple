@@ -11,6 +11,7 @@ public class Client {
     private String nom;
     private String telefon;
     private Vector <Lloguer> lloguers;
+    private String prueba;
 
     public Client(String nif, String nom, String telefon) {
         this.nif = nif;
